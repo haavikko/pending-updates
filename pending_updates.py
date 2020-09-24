@@ -6,7 +6,7 @@ Created on 9 Nov 2016
 '''
 import contextlib
 
-from . import util
+from util import util
 import logging
 import collections
 from threading import local
